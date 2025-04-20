@@ -5,6 +5,16 @@ This repository contains mySQL solutions to problems from [LeetCode](https://lee
 ---
 
 ## 📋 Problems Solved
+## Advanced Select and Joins
+| # | Title | Difficulty | Solution |
+|---|-------|------------|----------|
+| 1731 | [The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1731](https://github.com/youngbinl1/Leetcode/blob/main/Database/1731_The%20Number%20of%20Employees%20Which%20Report%20to%20Each%20Employee.sql) |
+| 1789 | [Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1789](https://github.com/youngbinl1/Leetcode/blob/main/Database/1789_Primary%20Department%20for%20Each%20Employee.sql) |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/?envType=study-plan-v2&envId=top-sql-50) | Medium | [180](https://github.com/youngbinl1/Leetcode/blob/main/Database/180_Consecutive%20Numbers.sql) |
+| 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1164](https://github.com/youngbinl1/Leetcode/blob/main/Database/1164_Product%20Price%20at%20a%20Given%20Date.sql) |
+| 1204 | [Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1204](https://github.com/youngbinl1/Leetcode/blob/main/Database/1204_Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
+
+
 ## Basic Aggregate Functions
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
@@ -13,6 +23,13 @@ This repository contains mySQL solutions to problems from [LeetCode](https://lee
 | 1193 | [Monthly Transactions](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1193](https://github.com/youngbinl1/Leetcode/blob/main/Database/1193_Monthly%20Transactions%20I.sql) |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1633](https://github.com/youngbinl1/Leetcode/blob/main/Database/1633_Percentage%20of%20Users%20Attended%20a%20Contest.sql) |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1251](https://github.com/youngbinl1/Leetcode/blob/main/Database/1251_Average%20Selling%20Price.sql) |
+
+
+## Sorting and Grouping
+| # | Title | Difficulty | Solution |
+|---|-------|------------|----------|
+| 1070 | [Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1070](https://github.com/youngbinl1/Leetcode/blob/main/Database/1070_Product%20Sales%20Analysis%20III.sql) |
+| 1045 | [Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1045](https://github.com/youngbinl1/Leetcode/blob/main/Database/1045_Customers%20Who%20Bought%20All%20Products.sql) |
 
 
 ## Basic Joins
