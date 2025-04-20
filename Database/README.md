@@ -5,6 +5,16 @@ This repository contains mySQL solutions to problems from [LeetCode](https://lee
 ---
 
 ## 📋 Problems Solved
+## Basic Aggregate Functions
+| # | Title | Difficulty | Solution |
+|---|-------|------------|----------|
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/description/?envType=study-plan-v2&envId=top-sql-50) | Medium | [550](https://github.com/youngbinl1/Leetcode/blob/main/Database/550_Game%20Play%20Analysis%20IV.sql) |
+| 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1174](https://github.com/youngbinl1/Leetcode/blob/main/Database/1174_Immediate%20Food%20Delivery%20II.sql) |
+| 1193 | [Monthly Transactions](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | Medium | [1193](https://github.com/youngbinl1/Leetcode/blob/main/Database/1193_Monthly%20Transactions%20I.sql) |
+| 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1633](https://github.com/youngbinl1/Leetcode/blob/main/Database/1633_Percentage%20of%20Users%20Attended%20a%20Contest.sql) |
+| 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1251](https://github.com/youngbinl1/Leetcode/blob/main/Database/1251_Average%20Selling%20Price.sql) |
+
+
 ## Basic Joins
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
