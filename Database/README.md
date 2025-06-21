@@ -3,6 +3,10 @@
 This repository contains mySQL solutions to problems from [LeetCode](https://leetcode.com/studyplan/top-sql-50/).  
 
 ---
+## Subqueries
+| # | Title | Difficulty | Solution |
+|---|-------|------------|----------|
+| 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1978](https://github.com/youngbinl1/Leetcode/blob/main/Database/1978_Employees%20Whose%20Manager%20Left%20the%20Company.sql) |
 
 ## 📋 Problems Solved
 ## Advanced Select and Joins
