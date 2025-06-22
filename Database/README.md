@@ -7,7 +7,7 @@ This repository contains mySQL solutions to problems from [LeetCode](https://lee
 | # | Title | Difficulty | Solution |
 |---|-------|------------|----------|
 | 1978 | [Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company/description/?envType=study-plan-v2&envId=top-sql-50) | Easy | [1978](https://github.com/youngbinl1/Leetcode/blob/main/Database/1978_Employees%20Whose%20Manager%20Left%20the%20Company.sql) |
-| 626 | [Exchange Seats] (https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50) | Medium | [626] (https://github.com/youngbinl1/Leetcode/blob/main/Database/626_Exchange%20Seats.sql)
+| 626 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/?envType=study-plan-v2&envId=top-sql-50) | Medium | [626](https://github.com/youngbinl1/Leetcode/blob/main/Database/626_Exchange%20Seats.sql) |
 
 
 ## 📋 Problems Solved
